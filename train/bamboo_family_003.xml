@@ -1,6 +1,6 @@
 <annotation>
     <folder>train</folder>
-    <filename>bambpp_family_003.jpg</filename>
+    <filename>bamboo_family_003.jpg</filename>
     <size>
         <width>4032</width>
         <height>3024</height>
@@ -12,11 +12,28 @@
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
+        <rotated_box>
+            <cx>3038.411377</cx>
+            <cy>2317.605957</cy>
+            <width>380.096741</width>
+            <height>526.557434</height>
+            <rot>5.664793</rot>
+        </rotated_box>
+        <polygon>
+            <x1>2731.625478</x1>
+            <y1>2421.834970</y1>
+            <x2>3040.517886</x2>
+            <y2>2641.607172</y2>
+            <x3>3345.197152</x3>
+            <y3>2213.376919</y3>
+            <x4>3036.304755</x4>
+            <y4>1993.604694</y4>
+        </polygon>
         <bndbox>
-            <xmin>2653.342041</xmin>
-            <ymin>1973.347534</ymin>
-            <xmax>3335.172852</xmax>
-            <ymax>2639.127197</ymax>
+            <xmin>2731.625488</xmin>
+            <ymin>1993.604736</ymin>
+            <xmax>3345.197266</xmax>
+            <ymax>2641.607178</ymax>
         </bndbox>
     </object>
     <object>
@@ -25,11 +42,28 @@
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
+        <rotated_box>
+            <cx>2042.181763</cx>
+            <cy>2393.405518</cy>
+            <width>408.357697</width>
+            <height>540.152832</height>
+            <rot>6.003060</rot>
+        </rotated_box>
+        <polygon>
+            <x1>1771.910706</x1>
+            <y1>2596.161697</y1>
+            <x2>2163.389885</x2>
+            <y2>2708.786407</y2>
+            <x3>2312.452820</x3>
+            <y3>2190.649338</y3>
+            <x4>1920.973640</x4>
+            <y4>2078.024628</y4>
+        </polygon>
         <bndbox>
-            <xmin>1764.562500</xmin>
-            <ymin>2060.318848</ymin>
-            <xmax>2315.425781</xmax>
-            <ymax>2721.100342</ymax>
+            <xmin>1771.910645</xmin>
+            <ymin>2078.024658</ymin>
+            <xmax>2312.452881</xmax>
+            <ymax>2708.786377</ymax>
         </bndbox>
     </object>
     <object>
@@ -38,11 +72,28 @@
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
+        <rotated_box>
+            <cx>1163.743774</cx>
+            <cy>2325.936523</cy>
+            <width>419.578094</width>
+            <height>600.492676</height>
+            <rot>5.778822</rot>
+        </rotated_box>
+        <polygon>
+            <x1>835.662445</x1>
+            <y1>2487.220169</y1>
+            <x2>1202.120178</x2>
+            <y2>2689.498108</y2>
+            <x3>1491.825104</x3>
+            <y3>2164.652878</y3>
+            <x4>1125.367371</x4>
+            <y4>1962.374939</y4>
+        </polygon>
         <bndbox>
-            <xmin>827.794922</xmin>
-            <ymin>1995.340210</ymin>
-            <xmax>1503.627197</xmax>
-            <ymax>2689.110840</ymax>
+            <xmin>835.662415</xmin>
+            <ymin>1962.375000</ymin>
+            <xmax>1491.825073</xmax>
+            <ymax>2689.498047</ymax>
         </bndbox>
     </object>
     <object>
@@ -51,11 +102,28 @@
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
+        <rotated_box>
+            <cx>2938.166992</cx>
+            <cy>1431.182739</cy>
+            <width>457.202606</width>
+            <height>535.805664</height>
+            <rot>6.037684</rot>
+        </rotated_box>
+        <polygon>
+            <x1>2651.914856</x1>
+            <y1>1635.129425</y1>
+            <x2>3094.438522</x2>
+            <y2>1746.006134</y2>
+            <x3>3224.419128</x3>
+            <y3>1227.236298</y3>
+            <x4>2781.895462</x4>
+            <y4>1116.359589</y4>
+        </polygon>
         <bndbox>
-            <xmin>2664.339355</xmin>
-            <ymin>1126.627686</ymin>
-            <xmax>3216.202393</xmax>
-            <ymax>1721.430908</ymax>
+            <xmin>2651.914795</xmin>
+            <ymin>1116.359619</ymin>
+            <xmax>3224.419189</xmax>
+            <ymax>1746.006104</ymax>
         </bndbox>
     </object>
     <object>
@@ -64,11 +132,28 @@
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
+        <rotated_box>
+            <cx>2124.808105</cx>
+            <cy>1441.886719</cy>
+            <width>396.777710</width>
+            <height>500.540527</height>
+            <rot>0.113441</rot>
+        </rotated_box>
+        <polygon>
+            <x1>1956.464706</x1>
+            <y1>1712.452148</y1>
+            <x2>2349.698547</x2>
+            <y2>1667.650970</y2>
+            <x3>2293.151627</x3>
+            <y3>1171.321259</y3>
+            <x4>1899.917786</x4>
+            <y4>1216.122452</y4>
+        </polygon>
         <bndbox>
-            <xmin>1896.529785</xmin>
-            <ymin>1163.615479</ymin>
-            <xmax>2362.414062</xmax>
-            <ymax>1731.427490</ymax>
+            <xmin>1899.917725</xmin>
+            <ymin>1171.321289</ymin>
+            <xmax>2349.698486</xmax>
+            <ymax>1712.452148</ymax>
         </bndbox>
     </object>
     <object>
@@ -77,11 +162,28 @@
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
+        <rotated_box>
+            <cx>1274.779053</cx>
+            <cy>1412.715820</cy>
+            <width>413.977539</width>
+            <height>540.856628</height>
+            <rot>0.504988</rot>
+        </rotated_box>
+        <polygon>
+            <x1>1224.654671</x1>
+            <y1>1748.850403</y1>
+            <x2>1586.084442</x2>
+            <y2>1549.053131</y2>
+            <x3>1324.903435</x3>
+            <y3>1076.581238</y3>
+            <x4>963.473663</x4>
+            <y4>1276.378510</y4>
+        </polygon>
         <bndbox>
-            <xmin>971.759155</xmin>
-            <ymin>1096.637451</ymin>
-            <xmax>1590.605591</xmax>
-            <ymax>1722.430542</ymax>
+            <xmin>963.473633</xmin>
+            <ymin>1076.581299</ymin>
+            <xmax>1586.084473</xmax>
+            <ymax>1748.850342</ymax>
         </bndbox>
     </object>
     <object>
@@ -90,11 +192,28 @@
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
+        <rotated_box>
+            <cx>2584.221436</cx>
+            <cy>672.744202</cy>
+            <width>392.550293</width>
+            <height>573.286499</height>
+            <rot>5.878548</rot>
+        </rotated_box>
+        <polygon>
+            <x1>2291.605713</x1>
+            <y1>858.706253</y1>
+            <x2>2651.536469</x2>
+            <y2>1012.853821</y2>
+            <x3>2876.837219</x3>
+            <y3>486.782181</y3>
+            <x4>2516.906441</x4>
+            <y4>332.634613</y4>
+        </polygon>
         <bndbox>
-            <xmin>2303.428711</xmin>
-            <ymin>326.892212</ymin>
-            <xmax>2862.290039</xmax>
-            <ymax>998.669983</ymax>
+            <xmin>2291.605713</xmin>
+            <ymin>332.634613</ymin>
+            <xmax>2876.837158</xmax>
+            <ymax>1012.853821</ymax>
         </bndbox>
     </object>
     <object>
@@ -103,11 +222,28 @@
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
+        <rotated_box>
+            <cx>1901.501221</cx>
+            <cy>594.583740</cy>
+            <width>404.759521</width>
+            <height>568.102112</height>
+            <rot>0.291191</rot>
+        </rotated_box>
+        <polygon>
+            <x1>1789.525795</x1>
+            <y1>924.156342</y1>
+            <x2>2176.288086</x2>
+            <y2>808.239685</y2>
+            <x3>2013.476883</x3>
+            <y3>265.011108</y3>
+            <x4>1626.714569</x4>
+            <y4>380.927780</y4>
+        </polygon>
         <bndbox>
-            <xmin>1642.592773</xmin>
-            <ymin>283.906525</ymin>
-            <xmax>2163.463379</xmax>
-            <ymax>927.693481</ymax>
+            <xmin>1626.714600</xmin>
+            <ymin>265.011108</ymin>
+            <xmax>2176.288086</xmax>
+            <ymax>924.156311</ymax>
         </bndbox>
     </object>
     <object>
@@ -116,11 +252,28 @@
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
+        <rotated_box>
+            <cx>1147.497070</cx>
+            <cy>732.325562</cy>
+            <width>390.105591</width>
+            <height>481.676605</height>
+            <rot>0.312043</rot>
+        </rotated_box>
+        <polygon>
+            <x1>1036.124322</x1>
+            <y1>1020.785869</y1>
+            <x2>1406.439357</x2>
+            <y2>901.329041</y2>
+            <x3>1258.869892</x3>
+            <y3>443.865121</y3>
+            <x4>888.554858</x4>
+            <y4>563.321948</y4>
+        </polygon>
         <bndbox>
-            <xmin>889.779541</xmin>
-            <ymin>450.851135</ymin>
-            <xmax>1455.639160</xmax>
-            <ymax>1079.643188</ymax>
+            <xmin>888.554871</xmin>
+            <ymin>443.865112</ymin>
+            <xmax>1406.439331</xmax>
+            <ymax>1020.785889</ymax>
         </bndbox>
     </object>
 </annotation>
