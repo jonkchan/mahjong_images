@@ -13,14 +13,14 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <polygon>
-            <x1>1484.720247</x1>
-            <y1>452.183824</y1>
-            <x2>1639.228548</x2>
-            <y2>452.101663</y2>
-            <x3>1647.536719</x3>
-            <y3>679.699939</y3>
-            <x4>1486.778385</x4>
-            <y4>681.809826</y4>
+            <x1>1484.720215</x1>
+            <y1>452.183838</y1>
+            <x2>1639.228516</x2>
+            <y2>452.101654</y2>
+            <x3>1647.536743</x3>
+            <y3>679.699951</y3>
+            <x4>1486.778442</x4>
+            <y4>681.809814</y4>
         </polygon>
         <bndbox>
             <xmin>1484.720215</xmin>
@@ -30,20 +30,20 @@
         </bndbox>
     </object>
     <object>
-        <name>flower-red_four</name>
+        <name>flower-blue_four</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <polygon>
-            <x1>1321.627604</x1>
-            <y1>451.421372</y1>
-            <x2>1482.399089</x2>
-            <y2>452.137814</y2>
-            <x3>1488.652409</x3>
-            <y3>680.317788</y3>
-            <x4>1326.447461</x4>
-            <y4>682.914066</y4>
+            <x1>1321.627563</x1>
+            <y1>451.421387</y1>
+            <x2>1482.399048</x2>
+            <y2>452.137817</y2>
+            <x3>1488.652466</x3>
+            <y3>680.317810</y3>
+            <x4>1326.447510</x4>
+            <y4>682.914062</y4>
         </polygon>
         <bndbox>
             <xmin>1321.627563</xmin>
@@ -53,20 +53,20 @@
         </bndbox>
     </object>
     <object>
-        <name>flower-blue_four</name>
+        <name>flower-red_four</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <polygon>
-            <x1>1159.975000</x1>
-            <y1>456.130824</y1>
-            <x2>1321.219922</x2>
-            <y2>455.581990</y2>
-            <x3>1326.999805</x3>
-            <y3>682.496689</y3>
-            <x4>1162.490137</x4>
-            <y4>685.056817</y4>
+            <x1>1159.974976</x1>
+            <y1>456.130829</y1>
+            <x2>1321.219971</x2>
+            <y2>455.582001</y2>
+            <x3>1326.999756</x3>
+            <y3>682.496704</y3>
+            <x4>1162.490112</x4>
+            <y4>685.056824</y4>
         </polygon>
         <bndbox>
             <xmin>1159.974976</xmin>
@@ -76,20 +76,20 @@
         </bndbox>
     </object>
     <object>
-        <name>flower-red_three</name>
+        <name>flower-blue_three</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <polygon>
-            <x1>996.921810</x1>
-            <y1>452.361291</y1>
-            <x2>1159.833626</x2>
-            <y2>452.952848</y2>
-            <x3>1161.145443</x3>
-            <y3>680.797606</y3>
-            <x4>994.827507</x4>
-            <y4>682.920638</y4>
+            <x1>996.921814</x1>
+            <y1>452.361298</y1>
+            <x2>1159.833618</x2>
+            <y2>452.952850</y2>
+            <x3>1161.145386</x3>
+            <y3>680.797607</y3>
+            <x4>994.827515</x4>
+            <y4>682.920654</y4>
         </polygon>
         <bndbox>
             <xmin>994.827515</xmin>
@@ -99,20 +99,20 @@
         </bndbox>
     </object>
     <object>
-        <name>flower-blue_three</name>
+        <name>flower-red_three</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <polygon>
-            <x1>836.410059</x1>
-            <y1>455.227056</y1>
-            <x2>996.744271</x2>
-            <y2>456.922853</y2>
-            <x3>997.355794</x3>
-            <y3>682.736598</y3>
-            <x4>834.522884</x4>
-            <y4>687.363889</y4>
+            <x1>836.410034</x1>
+            <y1>455.227051</y1>
+            <x2>996.744263</x2>
+            <y2>456.922852</y2>
+            <x3>997.355774</x3>
+            <y3>682.736572</y3>
+            <x4>834.522888</x4>
+            <y4>687.363892</y4>
         </polygon>
         <bndbox>
             <xmin>834.522888</xmin>
@@ -122,20 +122,20 @@
         </bndbox>
     </object>
     <object>
-        <name>flower-red_two</name>
+        <name>flower-blue_two</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <polygon>
             <x1>671.604492</x1>
-            <y1>460.767973</y1>
+            <y1>460.767975</y1>
             <x2>835.926758</x2>
-            <y2>462.329027</y2>
-            <x3>832.533789</x3>
-            <y3>690.298669</y3>
-            <x4>670.434049</x4>
-            <y4>695.257889</y4>
+            <y2>462.329041</y2>
+            <x3>832.533813</x3>
+            <y3>690.298645</y3>
+            <x4>670.434021</x4>
+            <y4>695.257874</y4>
         </polygon>
         <bndbox>
             <xmin>670.434021</xmin>
@@ -145,20 +145,20 @@
         </bndbox>
     </object>
     <object>
-        <name>flower-blue_two</name>
+        <name>flower-red_two</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <polygon>
-            <x1>505.694238</x1>
-            <y1>453.521400</y1>
-            <x2>671.864225</x2>
-            <y2>454.553338</y2>
-            <x3>667.514518</x3>
-            <y3>687.025387</y3>
-            <x4>499.417904</x4>
-            <y4>689.210861</y4>
+            <x1>505.694244</x1>
+            <y1>453.521393</y1>
+            <x2>671.864197</x2>
+            <y2>454.553345</y2>
+            <x3>667.514526</x3>
+            <y3>687.025391</y3>
+            <x4>499.417908</x4>
+            <y4>689.210876</y4>
         </polygon>
         <bndbox>
             <xmin>499.417908</xmin>
@@ -168,20 +168,20 @@
         </bndbox>
     </object>
     <object>
-        <name>flower-red_one</name>
+        <name>flower-blue_one</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <polygon>
-            <x1>341.533073</x1>
-            <y1>447.553247</y1>
-            <x2>505.240527</x2>
-            <y2>448.713356</y2>
-            <x3>498.411849</x3>
-            <y3>682.000439</y3>
-            <x4>335.345508</x4>
-            <y4>681.878841</y4>
+            <x1>341.533081</x1>
+            <y1>447.553253</y1>
+            <x2>505.240540</x2>
+            <y2>448.713348</y2>
+            <x3>498.411835</x3>
+            <y3>682.000427</y3>
+            <x4>335.345520</x4>
+            <y4>681.878845</y4>
         </polygon>
         <bndbox>
             <xmin>335.345520</xmin>
@@ -191,20 +191,20 @@
         </bndbox>
     </object>
     <object>
-        <name>flower-blue_one</name>
+        <name>flower-red_one</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <polygon>
-            <x1>168.583724</x1>
-            <y1>462.348745</y1>
-            <x2>339.432194</x2>
-            <y2>456.068381</y2>
-            <x3>335.608529</x3>
-            <y3>688.714611</y3>
-            <x4>167.189714</x4>
-            <y4>695.241457</y4>
+            <x1>168.583725</x1>
+            <y1>462.348755</y1>
+            <x2>339.432190</x2>
+            <y2>456.068390</y2>
+            <x3>335.608521</x3>
+            <y3>688.714600</y3>
+            <x4>167.189713</x4>
+            <y4>695.241455</y4>
         </polygon>
         <bndbox>
             <xmin>167.189713</xmin>
